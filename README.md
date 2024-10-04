@@ -2,7 +2,7 @@
 # 🔱 🔆 Holaaa, holaaaa soy Omarrr 🔆 🔱
 
 
-## En proceso de ser ingeniero en sistemas | Gamer | Creador de contenido en progreso 
+## En proceso de ser ingeniero en Ciberseguridad | Gamer | Creador de contenido en progreso 
 
 ![Cabecera](banneresp.png)
  ## SOBRE MI 🫰
