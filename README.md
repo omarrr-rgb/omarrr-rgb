@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Omar 👋
 
-<!--
-**omarrr-rgb/omarrr-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## En progreso de ser ingeniero en sistemas | Gamer | Creador de contenido en progreso
 
-Here are some ideas to get you started:
+### REDES SOCIALES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![INSTAGRAM](https://www.instagram.com/alexis99mn/profilecard/?igsh=MW1vdzFyMWczczMwNw==)
+
+![Cabecera](Mi-foto.png)
+
+| Lenguaje | Experiencia |
+|----------|-------------|
+| Python   | 1 año       |
+| Java     | 1 año       |
+
+🌱 Siempre aprendiendo nuevas tecnologías
+
